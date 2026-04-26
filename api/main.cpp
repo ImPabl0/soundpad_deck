@@ -925,7 +925,7 @@ namespace
         nid.uCallbackMessage = WM_TRAYICON;
         HICON appIcon = LoadIconW(GetModuleHandleW(nullptr), MAKEINTRESOURCEW(IDI_API_ICON));
         nid.hIcon = appIcon != nullptr ? appIcon : LoadIcon(nullptr, IDI_APPLICATION);
-        lstrcpynW(nid.szTip, L"Soundpad Deck API (porta 1209)", ARRAYSIZE(nid.szTip));
+        lstrcpynW(nid.szTip, L"Soundpad Deck Server", ARRAYSIZE(nid.szTip));
 
         return Shell_NotifyIconW(NIM_ADD, &nid) == TRUE;
     }
