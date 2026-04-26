@@ -1,0 +1,53 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Soundpad Deck",
+  "statusOnline": "Online",
+  "statusSearching": "Buscando",
+  "statusOffline": "Offline",
+  "tooltipExpand": "Expandir",
+  "tooltipCollapse": "Recolher",
+  "instancesFound": "Instancias encontradas: {count}",
+  "@instancesFound": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "reconnect": "Reconectar",
+  "addAudio": "Adicionar audio",
+  "pause": "Pause",
+  "stop": "Stop",
+  "lightTheme": "Tema claro",
+  "darkTheme": "Tema escuro",
+  "hideMediaControl": "Ocultar controle de midia",
+  "showMediaControl": "Mostrar controle de midia",
+  "mediaControlTitle": "Controle de midia",
+  "close": "Fechar",
+  "selectAudioToEnablePlay": "Selecione um audio para habilitar o play.",
+  "currentTrack": "Faixa atual: {name}",
+  "@currentTrack": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "play": "Play",
+  "deleteAudioTitle": "Excluir audio",
+  "deleteAudioConfirmation": "Deseja excluir \"{name}\" do Soundpad Deck?",
+  "@deleteAudioConfirmation": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "cancel": "Cancelar",
+  "delete": "Excluir",
+  "audioPreviewTitle": "Previa do audio",
+  "pausePreview": "Pausar previa",
+  "playPreview": "Tocar previa",
+  "add": "Adicionar",
+  "noAudioAvailable": "Nenhum audio disponivel no momento.",
+  "editImage": "Editar imagem",
+  "addOrChangeImage": "Adicionar/alterar imagem",
+  "removeImage": "Remover imagem",
+  "deleteAudio": "Excluir audio"
+}

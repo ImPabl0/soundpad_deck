@@ -1,0 +1,53 @@
+{
+  "@@locale": "en",
+  "appTitle": "Soundpad Deck",
+  "statusOnline": "Online",
+  "statusSearching": "Searching",
+  "statusOffline": "Offline",
+  "tooltipExpand": "Expand",
+  "tooltipCollapse": "Collapse",
+  "instancesFound": "Instances found: {count}",
+  "@instancesFound": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "reconnect": "Reconnect",
+  "addAudio": "Add audio",
+  "pause": "Pause",
+  "stop": "Stop",
+  "lightTheme": "Light theme",
+  "darkTheme": "Dark theme",
+  "hideMediaControl": "Hide media controls",
+  "showMediaControl": "Show media controls",
+  "mediaControlTitle": "Media controls",
+  "close": "Close",
+  "selectAudioToEnablePlay": "Select an audio track to enable play.",
+  "currentTrack": "Current track: {name}",
+  "@currentTrack": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "play": "Play",
+  "deleteAudioTitle": "Delete audio",
+  "deleteAudioConfirmation": "Delete \"{name}\" from Soundpad Deck?",
+  "@deleteAudioConfirmation": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "audioPreviewTitle": "Audio preview",
+  "pausePreview": "Pause preview",
+  "playPreview": "Play preview",
+  "add": "Add",
+  "noAudioAvailable": "No audio available at the moment.",
+  "editImage": "Edit image",
+  "addOrChangeImage": "Add/change image",
+  "removeImage": "Remove image",
+  "deleteAudio": "Delete audio"
+}

@@ -1,0 +1,5 @@
+#include <windows.h>
+
+#define IDI_API_ICON 201
+
+IDI_API_ICON ICON "..\\app\\ico.ico"

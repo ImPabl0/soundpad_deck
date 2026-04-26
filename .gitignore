@@ -1,0 +1,61 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Editors and tooling
+.vscode/
+.idea/
+*.iml
+
+# CMake and C++ build outputs
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Visual Studio generated files
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.VC.db
+*.opendb
+
+# Native build artifacts
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+
+# Flutter/Dart
+app/.dart_tool/
+app/.packages
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.pub-cache/
+app/build/
+app/lib/l10n/generated/
+
+# Flutter platform generated artifacts
+app/android/.gradle/
+app/android/local.properties
+app/ios/Flutter/ephemeral/
+app/macos/Flutter/ephemeral/
+app/linux/flutter/ephemeral/
+app/windows/flutter/ephemeral/
+
+# Release and temp artifacts
+dist/
+release-assets/
+
+# Local automation folders
+.github/java-upgrade/
